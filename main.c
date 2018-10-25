@@ -3,6 +3,8 @@
 #include<time.h>
 #include"funziona.h"
 //ce la faremo???
+
+//======
 //don't forget 3 october
 //PIPE DEL L1L
 //typedef struct mazzo_di_carte {
